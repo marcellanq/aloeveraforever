@@ -11,7 +11,7 @@
 }
 .sf-menu.sf-style-spring a {
   border: 1px solid #ffffff;
-  color: #ffffff;
+  color: #37731f;
   padding: 0.75em 1em;
   white-space: nowrap;
 }
@@ -51,10 +51,6 @@
 .sf-menu.sf-style-spring a:active,
 .sf-menu.sf-style-spring.sf-navbar li li {
   background: #728236;
-  filter:alpha(opacity=97);
-  opacity:0.97;
-  -moz-opacity:0.97;
-
 }
 .sf-menu.sf-style-spring.sf-navbar li ul {
   background-color: #728236;
