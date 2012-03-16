@@ -11,7 +11,7 @@
 }
 .sf-menu.sf-style-spring a {
   border: 1px solid #ffffff;
-  color: #37731f;
+  color: #ffffff;
   padding: 0.75em 1em;
   white-space: nowrap;
 }
@@ -35,13 +35,13 @@
 }
 .sf-menu.sf-style-spring li,
 .sf-menu.sf-style-spring.sf-navbar {
-  background: #ecffdf;
+  background: #A3BD3A;
 }
 .sf-menu.sf-style-spring li li {
-  background: #eaffdb;
+  background: #A3BD3A;
 }
 .sf-menu.sf-style-spring li li li {
-  background: #daf8c5;
+  background: #A3BD3A;
 }
 .sf-menu.sf-style-spring li:hover,
 .sf-menu.sf-style-spring li.sfHover,
@@ -50,10 +50,14 @@
 .sf-menu.sf-style-spring a:hover,
 .sf-menu.sf-style-spring a:active,
 .sf-menu.sf-style-spring.sf-navbar li li {
-  background: #bff6a9;
+  background: #728236;
+  filter:alpha(opacity=97);
+  opacity:0.97;
+  -moz-opacity:0.97;
+
 }
 .sf-menu.sf-style-spring.sf-navbar li ul {
-  background-color: #bff6a9;
+  background-color: #728236;
 }
 .sf-menu.sf-style-spring.sf-navbar li ul li ul {
   background-color: transparent;
